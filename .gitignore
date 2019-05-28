@@ -1,6 +1,0 @@
-.idea/
-*.iml
-
-target/
-
-wss-agent-client/dependency-reduced-pom.xml
